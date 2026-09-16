@@ -42,6 +42,7 @@ CARLA forum</a>
 [__Blueprint library__](bp_library.md) — Blueprints provided to spawn actors.   
 [__Python API__](python_api.md) — Classes and methods in the Python API.   
 [__C++ reference__](ref_cpp.md) — Classes and methods in CARLA C++.    
+[__VLC__](https://www.videolan.org/vlc/) — Media player and video playback support.    
 
 ## CARLA ecosystem
 
